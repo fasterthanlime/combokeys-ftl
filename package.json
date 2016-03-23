@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "dom-event": "^0.0.5"
-  },
   "devDependencies": {
     "standard": "*",
     "browserify": "^9.0.3",
@@ -18,8 +15,8 @@
     "events",
     "browser"
   ],
-  "name": "combokeys",
-  "version": "2.4.4",
+  "name": "combokeys-ftl",
+  "version": "2.4.4-npmgate1",
   "description": "Handles keyboard shortcuts in the browser",
   "main": "Combokeys/index.js",
   "implements": [
